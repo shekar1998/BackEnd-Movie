@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "609cfc17ed964402dcbc9f37"
+  },
+  "name": "Ram Kumar",
+  "age": 35,
+  "gender": "male",
+  "awardCount": 5,
+  "__v": 0,
+  "dirimg": "https://sgp1.digitaloceanspaces.com/chennaiyil/2020/09/Director-Ramkumar.jpg"
+},{
+  "_id": {
+    "$oid": "60a1655e416d484494db258f"
+  },
+  "name": " Prashanth Neel",
+  "age": 23,
+  "gender": "male",
+  "awardCount": 5,
+  "__v": 0,
+  "dirimg": "https://www.filmibeat.com/img/popcorn/profile_photos/prashanth-neel-20181218144754-31863.jpg"
+},{
+  "_id": {
+    "$oid": "60a16574416d484494db2590"
+  },
+  "name": "Taika Waititi",
+  "age": 48,
+  "gender": "male",
+  "awardCount": 26,
+  "__v": 0,
+  "dirimg": "https://resizing.flixster.com/j6n--LINCGN-tcBSqic2KkOibCA=/506x652/v2/https://flxt.tmsimg.com/v9/AllPhotos/590955/590955_v9_bc.jpg"
+},{
+  "_id": {
+    "$oid": "60a432a805a8a21f7c17bbc2"
+  },
+  "name": "James Gunn",
+  "age": 23,
+  "gender": "male",
+  "awardCount": 5,
+  "__v": 0,
+  "dirimg": "https://gossipgist.com/uploads/24927/jame.png"
+},{
+  "_id": {
+    "$oid": "60a4340405a8a21f7c17bbc3"
+  },
+  "name": "Chad Stahelski",
+  "age": 23,
+  "gender": "male",
+  "awardCount": 5,
+  "__v": 0,
+  "dirimg": "https://static.wikia.nocookie.net/dccu/images/0/09/Chad_Stahelski.jpg"
+}
+
+]
